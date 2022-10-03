@@ -1,0 +1,78 @@
+#title{
+    background-color: #091a5c;
+    color: white;
+}
+
+body{
+    font-family: 'Montserrat';
+}
+
+.HIA{
+    font-weight: bold;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu';
+    color: rgb(218, 255, 235);
+    font-size: 2.5rem;
+    padding-right: 50%;
+    font-weight: bold;
+}
+
+.nav-link{
+    font-size: 1rem;
+}
+
+.container-fluid{
+    padding-left: 3%;
+}
+
+.row{
+    padding-top: 5%;
+}
+
+.title-img{
+    width: 60%;
+    padding-bottom: 5%;
+    border-radius: 100%;
+}
+
+.title-col{
+    padding-right: 10%;
+}
+
+#feature{
+    text-align: center;
+    background-color:whitesmoke;
+    padding-top: 5%;
+    color: #091a5c;
+}
+
+.twitch{
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+.end-page{
+    background-color: #091a5c;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: white;
+}
+
+.fa-brands{
+    font-size: 1rem;
+    margin: 20px 20px 50px;
+    color: whitesmoke;
+}
+
+
+
+.copyright{
+    text-align: center;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(100%);
+}
