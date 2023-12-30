@@ -125,13 +125,11 @@ header a{
 }
 
 .riot{
-    border-top: solid;
-    border-bottom: solid;
     background-position: center;
     background-repeat: no-repeat;
     background-size:contain;
     mix-blend-mode: multiply;
-    padding: -25% 5%;
+    padding: 5%;
     height: 900px;
 }
 
@@ -150,5 +148,27 @@ header a{
 }
 
 .valorant{
-    background-image: url(./Imagens/Runeterra.png);
+    background-image: url(./Imagens/Valorant.png);
+    padding: 5%;
+}
+
+.valorant .hero-text{
+    color:white;
+    background: rgba(174, 0, 255, 0.1);
+}
+
+.Pokemon{
+    background-image: url(./Imagens/Pokemon.png);
+    background-position:left;
+}
+
+.Pokemon .hero-img{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.Pokemon .hero-text{
+    margin-right: 50px;
+    color:white;
+    background: rgba(211, 140, 82, 0.3);
 }
